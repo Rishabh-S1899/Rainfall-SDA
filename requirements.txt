@@ -1,0 +1,6 @@
+pandas
+shapely
+geopandas
+osmnx
+matplotlib
+statsmodels
